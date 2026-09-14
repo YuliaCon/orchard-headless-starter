@@ -1,0 +1,6 @@
+{
+  "version": 3,
+  "sources": [],
+  "sections": [
+    {"offset": {"line": 40, "column": 0}, "map": {"version":3,"sources":["file:///home/yc/apps/Orchard_Headless_Started/frontend/saas-starter/app/api/user/route.ts"],"sourcesContent":["\nexport async function GET() {\n  //const user = await getUser();\n  //return Response.json(user);\n}\n"],"names":[],"mappings":";;;;AACO,eAAe;AACpB,+BAA+B;AAC/B,6BAA6B;AAC/B","debugId":null}}]
+}

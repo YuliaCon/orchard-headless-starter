@@ -3,3 +3,21 @@ obj/
 /packages/
 riderModule.iml
 /_ReSharper.Caches/
+
+# Dependencies
+/node_modules
+frontend/saas-starter/node_modules/
+/.pnp
+.pnp.js
+
+# Next.js Build Output
+/.next/
+
+text# Local Env Files (Do NOT commit these to GitHub)
+.env.local
+.env.development.local
+.env.test.local
+.env.production.local
+
+# Optional: ONLY commit template files
+!.env.example

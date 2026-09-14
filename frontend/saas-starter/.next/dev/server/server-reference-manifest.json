@@ -1,0 +1,21 @@
+{
+  "node": {
+    "00fa158d26ad8f732ca210d8cdf18c3f18cfd57f1a": {
+      "workers": {
+        "app/(dashboard)/page": {
+          "moduleId": "[project]/.next-internal/server/app/(dashboard)/page/actions.js { ACTIONS_MODULE0 => \"[project]/app/(login)/actions.ts [app-rsc] (ecmascript)\" } [app-rsc] (server actions loader, ecmascript)",
+          "async": false,
+          "exportedName": "signOut",
+          "filename": "app/(login)/actions.ts"
+        }
+      },
+      "layer": {
+        "app/(dashboard)/page": "action-browser"
+      },
+      "filename": "app/(login)/actions.ts",
+      "exportedName": "signOut"
+    }
+  },
+  "edge": {},
+  "encryptionKey": "0ABf2ZRBzabX8nyrc6g2yZhF3wJ2S645Zp7HUpA6NLE="
+}
